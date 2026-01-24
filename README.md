@@ -1,4 +1,5 @@
-## Hi there 👋
+![62DBD574-90AB-43EA-8CBB-0030CBE998B1](https://github.com/user-attachments/assets/a41be2f0-9096-4a56-a46b-98a3ca4efe9b)
+
 
 <!--
 **murderousfiend/murderousfiend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
