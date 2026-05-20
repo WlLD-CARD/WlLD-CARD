@@ -1,8 +1,4 @@
-Test.
-
-<img align="right" width="200" src="https://www.image2url.com/r2/default/images/1779275881930-e61da1c1-0c46-405b-92ad-1860c5acb625.PNG
-">
-
+<img align="right" width="200" src="https://www.image2url.com/r2/default/images/1779275881930-e61da1c1-0c46-405b-92ad-1860c5acb625.jpeg">
 
 
 <!--
