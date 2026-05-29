@@ -1,30 +1,8 @@
+<div align="center">
 
+${\color{darkgray}\textsf{I am.... A}}$ ${\color{white}\textsf{STRIKER!}}$
 
-
-<img align="right" width="130" src="https://www.image2url.com/r2/default/images/1779275881930-e61da1c1-0c46-405b-92ad-1860c5acb625.jpeg">
-
-
-
-
-
-
-${\color{red}\textsf{they'll consume}}$
-${\color{red}\textsf{your sweet resistance}}$
-
-${\color{red}\textsf{and they'll carry}}$
-${\color{red}\textsf{your heart}}$
-${\color{red}\textsf{with their teeth}}$
-
-
-
-
-${\color{red}\textsf{ّ}}$
-
-
-
-<p align="center">
-${\color{red}\textsf{but i'm always feeding them}}$
-${\color{red}\textsf{the UGLIEST parts of me}}$
+<img width="498" height="280" alt="69FEC5B8-9A97-48A6-9096-435197EF0186" src="https://github.com/user-attachments/assets/09390751-4a83-41d6-bbc8-6c355e9c7e5f" />
 
 
 <!--
