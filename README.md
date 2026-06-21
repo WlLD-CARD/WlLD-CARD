@@ -1,4 +1,6 @@
 <div align="center">
+  
+![](https://komarev.com/ghpvc/?username=WlLD-CARD&label=🜲&color=8c410f)
 
 <img width="734" height="417" alt="IMG_9019" src="https://github.com/user-attachments/assets/75753590-c4e8-4ea5-8f10-a419360b5d3e" />
 
