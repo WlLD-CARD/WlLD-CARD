@@ -1,8 +1,9 @@
 <div align="center">
 
-${\color{darkgray}\textsf{I am.... A}}$ ${\color{white}\textsf{STRIKER!}}$
+<img width="734" height="417" alt="IMG_9019" src="https://github.com/user-attachments/assets/75753590-c4e8-4ea5-8f10-a419360b5d3e" />
 
-<img width="498" height="280" alt="69FEC5B8-9A97-48A6-9096-435197EF0186" src="https://github.com/user-attachments/assets/09390751-4a83-41d6-bbc8-6c355e9c7e5f" />
+
+
 
 
 <!--
